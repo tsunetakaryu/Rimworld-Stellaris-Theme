@@ -1,6 +1,6 @@
 # Stellaris Theme for RimThemes
 
-Workshop Link: NA
+Workshop Link: https://steamcommunity.com/sharedfiles/filedetails/?id=2076894874
 
 *English description below.* 
 
@@ -8,7 +8,9 @@ Workshop Link: NA
 
 ## 适用于非 Steam 用户的模组使用方法
 
-拉取该源，复制至 RimWorld 模组文件夹，例如：`Steam\steamapps\common\RimWorld\Mods\`
+从 https://github.com/tsunetakaryu/Rimworld-Stellaris-Theme/releases 中下载并解压。
+
+复制至 RimWorld 模组文件夹，例如：`Steam\steamapps\common\RimWorld\Mods\`
 
 
 
