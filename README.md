@@ -41,6 +41,8 @@ RimWorld 1.1 版本模组排序：
 >
 > *< This Mod >*
 
+为保证主题内容正确呈现，请确保在 RimThemes 的 MOD 设置中，【禁用视频背景】为勾选状态，【禁用自定义壁纸（主菜单）】为取消勾选状态，【随机背景 - 禁用随机背景】为勾选状态。
+
 
 
 ### 已知问题
@@ -92,6 +94,12 @@ Load order for RimWorld 1.1:
 > RimThemes
 >
 > *< This Mod >*
+
+To ensure that the theme content is rendered correctly, make sure that in the RimThemes settings, 
+
+- **[Disable Video Background]** is checked,
+- **[Disable Custom Wallpaper (Main Menu)]** is unchecked,
+- **[Random Background - Disable Random Background]** is checked. 
 
 
 
