@@ -31,7 +31,7 @@ Workshop Link: https://steamcommunity.com/sharedfiles/filedetails/?id=2076894874
 ### 如何使用
 安装前置模组 RimThemes 并排序在其后面，重启游戏之后右下角会出现边缘世界的游戏图标，点进去选主题。
 
-RimWorld 1.1 版本模组排序：
+RimWorld 1.2 & 1.1 版本模组排序：
 
 > Harmony
 >
@@ -85,7 +85,7 @@ While enable this mod, no matter if you choose this Stellaris theme from RimThem
 
 Simply put my mod after RimThemes, once you restart Rimworld, check the bottom right corner. There should be a Rimworld icon. Check and choose theme you like and have fun.
 
-Load order for RimWorld 1.1: 
+Load order for RimWorld 1.2 & 1.1: 
 
 > Harmony
 >

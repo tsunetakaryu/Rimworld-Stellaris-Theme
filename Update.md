@@ -1,5 +1,19 @@
 # Update
 
+## 2020-10-2
+
+【中文】
+
+支持 RimWorld 1.2 版本，无内容变动。
+
+
+
+【English】
+
+Now support RimWorld v1.2, without any content changes. 
+
+
+
 ## 2020-4-30
 
 【中文】
